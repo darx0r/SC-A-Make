@@ -14,5 +14,7 @@ When opening an existing CMake project, IDEs tend to automatically execute the C
 This project is the PoC, just clone it and open it with your favourite CMake supporting IDE.
 And from now on, review the makefiles before loading any project.
 
+![](demo/demo.gif)
+
 ## Test your IDE
 and let me know about more IDEs affected by this issue
