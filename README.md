@@ -8,7 +8,7 @@ Malicious build scripts were always an issue.
 Every Makefile can contain some evil commands which the unsuspecting user may execute on his machine.
 
 The problem with CMake comes from the IDEs supporting it. 
-When opening an existing CMake project, IDEs tend to automatically execute the CMakeLists.txt file. Some IDEs affected by this issue are QTCreator and CLion and I sure there are more ...
+When opening an existing CMake project, IDEs tend to automatically execute the CMakeLists.txt file. Some IDEs affected by this issue are **QTCreator** and **CLion** and I'm sure there are more ...
 
 ## PoC
 This project is the PoC, just clone it and open it with your favourite CMake supporting IDE.
